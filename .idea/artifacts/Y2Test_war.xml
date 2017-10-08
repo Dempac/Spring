@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Y2Test:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Y2Test-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Y2Test:war exploded" />
+    </root>
+  </artifact>
+</component>
